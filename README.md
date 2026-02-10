@@ -99,4 +99,14 @@ Models are pre-loaded at server startup via FastMCP's lifespan hook, so the firs
 
 > Turn your sound on — this demo has voice!
 
+### Claude Code
+
 <https://github.com/user-attachments/assets/22493ae6-2da9-4a06-b8ef-be203c98b35d>
+
+### OpenAI Codex
+
+<https://github.com/user-attachments/assets/09b6dceb-d83d-46a9-a2fd-d66fa3bc1186>
+
+### Mistral Vibe
+
+<https://github.com/user-attachments/assets/7530373f-719d-46c5-8a35-2337e8121356>
