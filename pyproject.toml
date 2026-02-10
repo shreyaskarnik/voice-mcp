@@ -1,0 +1,13 @@
+[project]
+name = "voice-mcp"
+version = "0.1.0"
+description = "Bidirectional voice MCP server for Claude Code — listen (STT) and speak (TTS)"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp[cli]",
+    "mlx-audio[stt,tts]",
+    "sounddevice",
+    "webrtcvad",
+    "numpy",
+    "setuptools<76",
+]

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+.claude/settings.local.json
