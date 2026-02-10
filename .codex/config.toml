@@ -1,0 +1,3 @@
+[mcp_servers.voice]
+command = "uv"
+args = ["run", "server.py"]
