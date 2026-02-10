@@ -97,4 +97,4 @@ Models are pre-loaded at server startup via FastMCP's lifespan hook, so the firs
 
 ## Demos
 
-https://github.com/user-attachments/assets/PASTE_ID_HERE
+https://github.com/user-attachments/assets/22493ae6-2da9-4a06-b8ef-be203c98b35d
