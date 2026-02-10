@@ -5,7 +5,7 @@ description = "Bidirectional voice MCP server for Claude Code — listen (STT) a
 requires-python = ">=3.11"
 dependencies = [
     "mcp[cli]",
-    "mlx-audio[stt,tts]",
+    "mlx-audio[stt,tts] @ git+https://github.com/Blaizzy/mlx-audio.git@main",
     "sounddevice",
     "webrtcvad",
     "numpy",
