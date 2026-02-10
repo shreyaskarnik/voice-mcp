@@ -2,6 +2,7 @@
 name = "voice-mcp"
 version = "0.1.0"
 description = "Bidirectional voice MCP server for Claude Code — listen (STT) and speak (TTS)"
+license = "Apache-2.0"
 requires-python = ">=3.11"
 dependencies = [
     "mcp[cli]",
