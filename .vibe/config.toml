@@ -1,5 +1,11 @@
+textual_theme = "terminal"
+active_model = "devstral-2"
+
 [[mcp_servers]]
 name = "voice"
 transport = "stdio"
 command = "uv"
-args = ["run", "server.py"]
+args = [
+    "run",
+    "server.py",
+]
