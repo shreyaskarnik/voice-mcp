@@ -9,5 +9,5 @@ dependencies = [
     "sounddevice",
     "webrtcvad",
     "numpy",
-    "setuptools<76",
+    "setuptools>=78.1.1",
 ]
